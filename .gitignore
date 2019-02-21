@@ -121,3 +121,4 @@ dmypy.json
 data/
 data_feature_engineering/
 data_modeling/
+catboost_info/
